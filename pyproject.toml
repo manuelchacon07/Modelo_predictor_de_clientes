@@ -1,6 +1,6 @@
 [tool.poetry]
-name = "predictor-cliente"
-version = "0.1.0"
+name = "Modelo_predictor_de_clientes"
+version = "1.0.0"
 description = ""
 authors = ["Manuel Chacon De Dios <machde.edu@gmail.com>"]
 
